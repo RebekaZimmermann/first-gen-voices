@@ -1,2 +1,12 @@
-id,title,text,subreddit,search_term,date,link,user_role,stage,category,gender,length
-post001,,,,,,,,,,,
+id,search_term,user_role,stage,category,gender,length,possible_immigrant,confidence,note
+01,,First Gen - Bachelor,Undergraduate,Achievement,female,,yes,high,mentions being a Latina
+02,,,,Rant,,,unclear,,
+03,,,,Advice,,,yes,medium,"mentions parents came ""here"" to give them better education"
+04,,First Gen - PhD,PhD,Advice,,,no,low,
+05,,,Undergraduate,Rant,female,,yes,high,mentions being eldest daughter of immigrant family
+06,,,Undergraduate,Rant,,,yes,low,"FASFA exclusion may hint at immigration status, not conclusive"
+07,,,Undergraduate,Rant,female,,unclear,,
+08,,,Undergraduate,Rant,,,unclear,,
+09,,First Gen - Graduate,Graduate,Advice,,,unclear,,
+10,,,Pre-College,Question,,,unclear,,
+11,,,Undergraduate,Experience,,,unclear,,
