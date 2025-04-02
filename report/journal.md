@@ -26,3 +26,4 @@
 - weitere 10 Posts sammeln mit Fokus auf die Kategorien 'Experience' und 'Achievement'
 - überlegen, ob 'length' ein notwendiges Attribut ist in 'posts_meta.csv'
 - besseren Workflow finden für das Kopieren und Einfügen von Texten aus Reddit in JSON
+- 'metadata_guide' übersetzen
