@@ -8,7 +8,7 @@ Diese Datei dokumentiert die verwendeten Metadatenfelder und deren Bedeutung.
 
 | Feld          | Beschreibung |
 |---------------|--------------|
-| `id`          | Eindeutige Kennung (z. B. post001, post002) |
+| `id`          | Eindeutige Kennung (z. B. 01, 02) |
 | `title`       | Titel des Reddit-Posts |
 | `text`        | Volltext (in JSON) |
 | `subreddit`   | Herkunftsforum (z. B. r/college) |
