@@ -1,6 +1,8 @@
 # 🗒️ Projekt-Logbuch – First Gen, First Steps
 ⏳ Start: 01.04.2025
+
 🕑 Ziel: ca. 2 Wochen, täglich 2 Stunden
+
 🎯 Ziel: Textanalyse-Projekt mit echten Stimmen & Data Storytelling
 
 ## 📅 01.04.2025
