@@ -1,0 +1,10 @@
+# Python cache & Jupyter artefacts
+__pycache__/
+.ipynb_checkpoints/
+
+# Private data files (not to be committed)
+data/posts_full.json
+
+# Environment files
+.env
+*.pyc
